@@ -17,4 +17,4 @@ Deployed a static web app to Azure App Service application using GitHub actions
 Create and deploy an Azure HTTP function with VSCode
 
 ### 30-06-2020
-Introduction to Docker
+Builtmy first App on a docker image
